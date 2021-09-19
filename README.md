@@ -1,5 +1,5 @@
 # Transfer to GDrives
-This is a Google Colab Notebook for transferring files & folders between drives from different Google accounts
+This is a Google Colab Notebook for transferring files & folders between drives from different Google Accounts
 
 Click on the "Open in Colab" Button & Press Ctrl+F9
 
