@@ -1,4 +1,4 @@
-# transfer-between-drives
+# Transfer to GDrives
 This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
 <br><br><b>Usage:</b>
 <br>
